@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhnnicob
+- 👋 Hi, I’m John Nico Molon you can call me Nico.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on 

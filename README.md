@@ -1,5 +1,5 @@
-- 👋 Hi, I’m John Nico Molon you can call me Nico.
-- 👀 I’m interested in coding
+- 👋 Hi, I’m John Nico Molon you can call me Nico
+- 👀 I’m was a web designer for the last five years and switch to web development
 - 🌱 I’m currently learning reactjs
 - 📫 How to reach me johnnicomolon@yahoo.com
 

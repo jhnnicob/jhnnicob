@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Nico Molon you can call me Nico
 - 👀 I’m was a web designer for the last five years and switch to web development
-- 🌱 I know Java, Html, CSS, Javascript and currently learning reactjs
+- 🌱 I use Html, CSS, Javascript and currently learning reactjs
 - 📫 How to reach me johnnicomolon@yahoo.com
 
 <!---
